@@ -1,0 +1,393 @@
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/appsettings.Development.json
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/appsettings.json
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.exe
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.csprojAssemblyReference.cache
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.RazorAssemblyInfo.cache
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.RazorAssemblyInfo.cs
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.AssemblyInfoInputs.cache
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.AssemblyInfo.cs
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.TagHelpers.input.cache
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.TagHelpers.output.cache
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.RazorCoreGenerate.cache
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.RazorTargetAssemblyInfo.cache
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.RazorTargetAssemblyInfo.cs
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/staticwebassets/lab234.StaticWebAssets.Manifest.cache
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/staticwebassets/lab234.StaticWebAssets.xml
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.deps.json
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.runtimeconfig.json
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.runtimeconfig.dev.json
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.pdb
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.Views.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.Views.pdb
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.csproj.CoreCompileInputs.cache
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.MvcApplicationPartsAssemblyInfo.cache
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.Views.pdb
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.csproj.CopyComplete
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.dll
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.pdb
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.genruntimeconfig.cache
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Detail/Index.cshtml.g.cs
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Product/Add.cshtml.g.cs
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Product/Delete.cshtml.g.cs
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Product/Edit.cshtml.g.cs
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Product/Index.cshtml.g.cs
+E:/DoAn1_Ai/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Cart/Index.cshtml.g.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/appsettings.json
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/lab234
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.deps.json
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.runtimeconfig.json
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.runtimeconfig.dev.json
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.pdb
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.Views.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.Views.pdb
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.csprojAssemblyReference.cache
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.csproj.CoreCompileInputs.cache
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.MvcApplicationPartsAssemblyInfo.cache
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.RazorAssemblyInfo.cache
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.RazorAssemblyInfo.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.AssemblyInfoInputs.cache
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.AssemblyInfo.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.TagHelpers.input.cache
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.TagHelpers.output.cache
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.RazorCoreGenerate.cache
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Cart/Index.cshtml.g.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Detail/Index.cshtml.g.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Product/Add.cshtml.g.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Product/Delete.cshtml.g.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Product/Edit.cshtml.g.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Product/Index.cshtml.g.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.RazorTargetAssemblyInfo.cache
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.RazorTargetAssemblyInfo.cs
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.Views.pdb
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.csproj.CopyComplete
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/staticwebassets/lab234.StaticWebAssets.Manifest.cache
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/staticwebassets/lab234.StaticWebAssets.xml
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.dll
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.pdb
+/home/zino/Downloads/lab234 (1)/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.genruntimeconfig.cache
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/appsettings.json
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/lab234
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.deps.json
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.runtimeconfig.json
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.runtimeconfig.dev.json
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.pdb
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.Views.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/lab234.Views.pdb
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.csprojAssemblyReference.cache
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.csproj.CoreCompileInputs.cache
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.MvcApplicationPartsAssemblyInfo.cache
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.RazorAssemblyInfo.cache
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.RazorAssemblyInfo.cs
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.AssemblyInfoInputs.cache
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.AssemblyInfo.cs
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.TagHelpers.input.cache
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.TagHelpers.output.cache
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.RazorCoreGenerate.cache
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Cart/Index.cshtml.g.cs
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Detail/Index.cshtml.g.cs
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Product/Add.cshtml.g.cs
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Product/Delete.cshtml.g.cs
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Product/Edit.cshtml.g.cs
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Product/Index.cshtml.g.cs
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.RazorTargetAssemblyInfo.cache
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.RazorTargetAssemblyInfo.cs
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.Views.pdb
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.csproj.CopyComplete
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/staticwebassets/lab234.StaticWebAssets.Manifest.cache
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/staticwebassets/lab234.StaticWebAssets.xml
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.dll
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.pdb
+/home/zino/code/da1/lab234/lab234/obj/Debug/netcoreapp3.1/lab234.genruntimeconfig.cache
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/EntityFramework.SqlServer.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/EntityFramework.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/zino/code/da1/lab234/lab234/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
